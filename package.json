@@ -21,6 +21,7 @@
     "/webResources"
   ],
   "dependencies": {
+    "@types/jquery": "^3.5.5",
     "jquery": "^3.5.1",
     "jsonpickle": "^1.1.2",
     "midicube": "^0.6.1",
@@ -33,7 +34,6 @@
     "@babel/plugin-proposal-export-namespace-from": "^7.12.13",
     "@babel/plugin-transform-object-assign": "^7.12.13",
     "@babel/preset-env": "^7.12.17",
-    "@types/jquery": "^3.5.5",
     "@types/qunit": "^2.11.1",
     "@typescript-eslint/eslint-plugin": "^4.15.1",
     "@typescript-eslint/parser": "^4.15.1",
